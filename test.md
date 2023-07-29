@@ -6,4 +6,4 @@ print(a)
 fakt
 
 New vetka2
-Test
+Test other info in vetka_master
